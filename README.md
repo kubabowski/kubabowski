@@ -1,5 +1,8 @@
 <h3 >Frontend developer working at eCreo Multimedia with 14 months of experience.</h3>
-<h3>For over 6 months now I have been learning React and NextJS</h3>
+<h4>For over 6 months now I have been learning React and NextJS</h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubabowski&label=Profile%20views&color=0e75b6&style=flat" alt="kubabowski" /> </p>
 
