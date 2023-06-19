@@ -1,4 +1,4 @@
-<h3 align="center">frontend developer</h3>
+<h3 >frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubabowski&label=Profile%20views&color=0e75b6&style=flat" alt="kubabowski" /> </p>
 
