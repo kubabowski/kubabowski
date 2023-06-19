@@ -7,9 +7,7 @@
 
 <h4>In KubaJakubowski repository there's my first ever project that got me my first job in IT</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kubabowski&label=Profile%20views&color=0e75b6&style=flat" alt="kubabowski" /> </p>
 
-- 🌱 I’m currently learning **React, NextJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
