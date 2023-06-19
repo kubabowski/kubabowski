@@ -1,5 +1,5 @@
 <h3 >Frontend developer working at eCreo Multimedia with 14 months of experience.</h3>
-<h4>For over 6 months now I have been learning React and NextJS</h4>
+<h4>For over 6 months now I have been learning React and NextJS. In next-js-v5 repository there's my project that I've been doing for a client from client's design. Part of it is possible to see online at www.kalinaopalinska.pl</h4>
 <h4></h4>
 <h4></h4>
 <h4></h4>
