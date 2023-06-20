@@ -1,7 +1,7 @@
 <h3 >Frontend developer working at eCreo Multimedia with 14 months of experience.</h3>
 <h4>Learning React and NextJS at the moment. In next-js-v5 repository there's my project that I've been doing for a client based client's design. Part of it is possible to see online at www.kalinaopalinska.pl</h4>
 <h4></h4>
-<h4>Currently working on including a functionality in admin.js, where it's client will be able to manipulate the data in database shown on website, sort of CMS.</h4>
+<h4>Currently working on including a functionality in admin.js, where client will be able to manipulate the data in database shown on website, sort of CMS.</h4>
 
 <h4>Lot of it still needs clean up and optimalization, open for code review :)</h4>
 
