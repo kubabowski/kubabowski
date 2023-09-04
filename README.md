@@ -3,7 +3,7 @@
 <h4></h4>
 <h4>Currently working on including a functionality in admin.js, where client will be able to manipulate the data in database shown on website, sort of CMS.</h4>
 
-<h4>Lot of it still needs clean up and optimalization, open for code review :)</h4>
+<h4>Lot of it still needs a clean up and optimalization, open for code review :)</h4>
 
 <h4>In KubaJakubowski repository there's my first ever project that got me my first job in IT</h4>
 
