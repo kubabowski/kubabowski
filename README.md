@@ -1,11 +1,5 @@
-<h3 >Frontend developer working at eCreo Multimedia with year and a half of experience.</h3>
-<h4>Learning React and NextJS at the moment. In next-js-v5 repository there's my project that I've been doing for a client based client's design. Part of it is possible to see online at www.kalinaopalinska.pl</h4>
-<h4></h4>
-<h4>Currently working on including a functionality in admin.js, where client will be able to manipulate the data in database shown on website, sort of CMS.</h4>
+<h3 >Frontend developer working at eCreo Multimedia with almost two years of experience.</h3>
 
-<h4>Lot of it still needs a clean up and optimalization, open for code review :)</h4>
-
-<h4>In KubaJakubowski repository there's my first ever project that got me my first job in IT</h4>
 
 
 
