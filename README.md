@@ -1,7 +1,8 @@
 <h3 >Frontend developer working at eCreo Multimedia with almost two years of experience.</h3>
 
-
-
+<h2>next-js - my first nextJs project</h2>
+<h2>filmpire - react project done with JSMastery course</h2>
+<h2>kubabowski - first project ever, which helped me land my first job in frontend dev</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
