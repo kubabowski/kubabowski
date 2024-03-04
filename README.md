@@ -1,4 +1,4 @@
-<h3 >Frontend developer working at eCreo Multimedia with almost two years of experience.</h3>
+<h3 >Frontend developer working at eCreo Multimedia with two years of experience.</h3>
 
 <h2>next-js - my first nextJs project</h2>
 <h2>filmpire - react project done with JSMastery course</h2>
