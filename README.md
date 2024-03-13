@@ -3,12 +3,12 @@
 
 <h4>next-js - my first nextJs project </h4>
 <h5>  - after a to do list, tik tak toe it was my first, built from scratch React/NextJs project. This is first off work paid gig I ever did. It was based of of a clent's graphic design</h5>
-<h2><br></h2>
+<h2> </h2>
 <h4>filmpire - react project done with JSMastery course</h4>
-<h2><br></h2>
+<h2> </h2>
 <h4>kubabowski</h4>
 <h5>  - first project ever, which helped me land my first job in frontend dev. Keeping it here as a little reminder, where it all started.</h5>
-<h2><br><br></h2>
+<h2><br></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kuba-kacper-jakubowski-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuba-kacper-jakubowski-" height="30" width="40" /></a>
