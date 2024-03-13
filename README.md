@@ -1,7 +1,10 @@
 <h3 >Frontend developer working at eCreo Multimedia with two years of experience.</h3>
+<style>
+  .h1 {
+    font-size: 25px;
+</style>
 
-
-<div style"font-size: 25px;">next-js - my first nextJs project </div>
+<div class="h1">next-js - my first nextJs project </div>
 <h4>  - after a to do list, tik tak toe it was my first, built from scratch React/NextJs project. This is first off work paid gig I ever did. It was based of of a clent's graphic design</h4>
 
 <h2>filmpire - react project done with JSMastery course</h2>
