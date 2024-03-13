@@ -1,14 +1,16 @@
 <h3 >Frontend developer working at eCreo Multimedia with two years of experience.</h3>
 
 
-<h4>next-js - my first nextJs project </h4>
-<h5>  - after a to do list, tik tak toe it was my first, built from scratch React/NextJs project. This is first off work paid gig I ever did. It was based of of a clent's graphic design</h5>
-<h2> </h2>
-<h4>filmpire - react project done with JSMastery course</h4>
-<h2> </h2>
-<h4>kubabowski</h4>
-<h5>  - first project ever, which helped me land my first job in frontend dev. Keeping it here as a little reminder, where it all started.</h5>
-<h2><br></h2>
+<h2>next-js - my first nextJs project </h2>
+<h4>  - after a to do list, tik tak toe it was my first, built from scratch React/NextJs project. This is first off work paid gig I ever did. It was based of of a clent's graphic design</h4>
+
+<h2>filmpire</h2>
+<h4>  - netflix clone. After some experience with my first project(next-js repo) I decided to get some knowledge from pro, Here is a project done along with online course - "JS Mastery" using React, Redux</h4>
+<h2>stack_overflow_nextjs14</h2>
+<h4>  - yet another project from "JS Mastery" working on it at the moment. Much more robust, and in depth obout NextJS 14. Clone of StackOverflow</h4>
+<h2>kubabowski</h2>
+<h4>  - first project ever, which helped me land my first job in frontend dev. Keeping it here as a little reminder, where it all started.</h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kuba-kacper-jakubowski-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuba-kacper-jakubowski-" height="30" width="40" /></a>
